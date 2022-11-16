@@ -7,12 +7,11 @@ require (
 	github.com/Knetic/govaluate v3.0.1-0.20171022003610-9aa49832a739+incompatible
 	github.com/Masterminds/sprig/v3 v3.2.2
 	github.com/TwinProduction/go-color v0.0.3
-	github.com/aliyun/aliyun-oss-go-sdk v2.1.8+incompatible
+	github.com/aliyun/aliyun-oss-go-sdk v2.2.6+incompatible
 	github.com/antonmedv/expr v1.8.9
 	github.com/argoproj-labs/argo-dataflow v0.0.107
 	github.com/argoproj/argo-events v1.5.0
 	github.com/argoproj/pkg v0.11.0
-	github.com/baiyubin/aliyun-sts-go-sdk v0.0.0-20180326062324-cfa1a18b161f // indirect
 	github.com/blushft/go-diagrams v0.0.0-20201006005127-c78c821223d9
 	github.com/colinmarc/hdfs v1.1.4-0.20180805212432-9746310a4d31
 	github.com/coreos/go-oidc/v3 v3.1.0
